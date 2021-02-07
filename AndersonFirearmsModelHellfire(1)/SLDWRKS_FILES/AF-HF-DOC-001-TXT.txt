@@ -1,0 +1,20 @@
+Note: This Documentation is only an aid for those who are interested into modding the Anderson Firearms Model Hellfire Design. I personally don't
+use this only because I memorized this format by heart and it helps me develop complex models with multiple pieces. Use this at your discretion.
+
+Naming convention is as follows:
+AF - ANDERSON FIREARMS
+HF - HELLFIRE
+LR - LOWER RECIEVER
+AS - AUTO SEAR(S)
+BT - BOLT TOOL
+TK - TOKEN
+PRT - PART
+DOC - DOCUMENTATION
+NS - NO SUPPORTS
+FA - FULL AUTO
+ASM - ASSEMBLY FILE TYPE
+SLDWRKS - SOLIDWORKS FILE TYPE
+STEP - STEP FILE TYPE
+
+EXAMPLE: AF-HF-LR-PRT-001-SLDWRKS --> TRANSLATION: "Anderson Firearms Model Hellfire Lower Reciever Part 001 Solidworks File Type"
+EXAMPLE: AF-HF-LR-PRT-NS-002-SLDWRKS --> TRANSLATION: "Anderson Firearms Model Hellfire Lower Reciever with No Supports Part 002 Solidworks File Type"
